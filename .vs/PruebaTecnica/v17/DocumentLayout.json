@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\CSharp\\PruebaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\controllers\\personacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\views\\persona\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\persona\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\wwwroot\\js\\persona.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\wwwroot\\js\\persona.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\models\\dto\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\dto\\personadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\views\\persona\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\data\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\data\\personaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\data\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\data\\conexionbd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|d:\\programming\\csharp\\pruebatecnica\\pruebatecnica\\models\\dto\\entityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7593E8D-C69B-4F92-9BF2-653A8E5B8614}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\dto\\entityextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADMAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T22:29:12.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "persona.js",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\wwwroot\\js\\persona.js",
+              "RelativeDocumentMoniker": "PruebaTecnica\\wwwroot\\js\\persona.js",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\wwwroot\\js\\persona.js",
+              "RelativeToolTip": "PruebaTecnica\\wwwroot\\js\\persona.js",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-01T22:26:05.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Views\\Persona\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Persona\\Upsert.cshtml",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Views\\Persona\\Upsert.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Persona\\Upsert.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T22:24:15.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Views\\Persona\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Views\\Persona\\Index.cshtml",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Views\\Persona\\Index.cshtml",
+              "RelativeToolTip": "PruebaTecnica\\Views\\Persona\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T22:23:59.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonaController.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Controllers\\PersonaController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Controllers\\PersonaController.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Controllers\\PersonaController.cs",
+              "RelativeToolTip": "PruebaTecnica\\Controllers\\PersonaController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAkwE0AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T22:12:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnica\\appsettings.json",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnica\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T22:10:12.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PersonaDto.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Models\\DTO\\PersonaDto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\DTO\\PersonaDto.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Models\\DTO\\PersonaDto.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\DTO\\PersonaDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:51:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EntityExtensions.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Models\\DTO\\EntityExtensions.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\DTO\\EntityExtensions.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Models\\DTO\\EntityExtensions.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\DTO\\EntityExtensions.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAIAwwAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:49:50.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonaService.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Data\\PersonaService.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Data\\PersonaService.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Data\\PersonaService.cs",
+              "RelativeToolTip": "PruebaTecnica\\Data\\PersonaService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:48:06.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConexionBD.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Data\\ConexionBD.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Data\\ConexionBD.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Data\\ConexionBD.cs",
+              "RelativeToolTip": "PruebaTecnica\\Data\\ConexionBD.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:46:25.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Models\\Persona.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Persona.cs",
+              "ToolTip": "D:\\Programming\\CSharp\\PruebaTecnica\\PruebaTecnica\\Models\\Persona.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Persona.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T21:44:50.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

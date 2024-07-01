@@ -1,0 +1,67 @@
+﻿@model PruebaTecnica.Models.Persona
+@{
+    ViewData["Title"] = "Upsert";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var titulo = "Agregar Persona";
+}
+
+<form method="POST" asp-action="Upsert">
+    <div style="padding-left: 15%; padding-right: 15%; padding-bottom: 4rem;">
+        <div class="row border-0">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        </div>
+
+        @if (Model.Id != 0)
+        {
+            // Actualizar Persona
+            titulo = "Actualizar Persona";
+            <input type="hidden" asp-for="Id" id="id"/>
+        }
+
+        <div class="col-12 border-bottom p-0">
+            <h2 class="text-primary">@titulo</h2>
+        </div>
+
+        @* Input Nombres *@
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label class="form-label">Nombres</label>
+                <input type="text" asp-for="Nombres" class="form-control" id="nombres" />
+                <span asp-validation-for="Nombres" class="text-danger"></span>
+            </div>
+        </div>
+
+        @* Input Apellido Paterno *@
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label class="form-label">Apellido Paterno</label>
+                <input type="text" asp-for="ApellidoPaterno" class="form-control" id="apellidoPaterno" />
+                <span asp-validation-for="ApellidoPaterno" class="text-danger"></span>
+            </div>
+        </div> 
+
+        @* Input Apellido Materno *@
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label class="form-label">Apellido Materno</label>
+                <input type="text" asp-for="ApellidoMaterno" class="form-control" id="apellidoMaterno" />
+                <span asp-validation-for="ApellidoMaterno" class="text-danger"></span>
+            </div>
+        </div>     
+        
+        @* Input Fecha de Nacimiento *@
+        <div class="row mb-2 mt-2">
+            <div class="form-group col-md-6">
+                <label class="form-label">Fecha de Nacimiento</label>
+                <input type="date" asp-for="FechaNacimiento" class="form-control" id="fechaNacimiento" />
+                <span asp-validation-for="FechaNacimiento" class="text-danger"></span>
+            </div>
+        </div>
+
+        <br />
+
+        <div>
+            <button type="submit" class="btn btn-success">Guardar cambios</button>
+        </div>
+    </div>
+</form>

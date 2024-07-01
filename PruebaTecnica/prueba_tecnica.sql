@@ -1,0 +1,18 @@
+DROP DATABASE IF EXISTS PruebaTecnica
+GO
+
+CREATE DATABASE PruebaTecnica
+GO
+
+USE PruebaTecnica
+GO
+
+CREATE TABLE Personas (
+Id INT PRIMARY KEY IDENTITY,
+Nombres NVARCHAR(100),
+ApellidoPaterno NVARCHAR(100),
+ApellidoMaterno NVARCHAR(100),
+FechaNacimiento DATE,
+FechaCreacion DATETIME DEFAULT GETDATE()
+)
+GO
